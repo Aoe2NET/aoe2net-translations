@@ -1,0 +1,193 @@
+navbar.lobbies=Lobbies
+navbar.leaderboards=ランキング
+navbar.leaderboards.aoe2hd.randommap=ランダム マップ
+navbar.leaderboards.aoe2hd.deathmatch=デス マッチ
+navbar.history=History
+navbar.history.mygamehistory=My Game History
+navbar.history.recentgames=Recent Games
+navbar.contact=Contact
+navbar.steamauth.unknown=Unknown
+navbar.steamauth.logout=Logout
+
+footer.copyright=Copyright 2014-2015 AOE2.NET
+footer.poweredbysteam=Powered by {0}
+#footer.translated=English translation by ___
+footer.message=This site is not affiliated with or endorsed by Microsoft Corporation. Age of Empires® II: HD is a trademark or registered trademark of Microsoft Corporation in the U.S. and/or other countries.
+
+# https://datatables.net/plug-ins/i18n/Japanese
+datatables.emptyTable=No data available in table
+# 0=Start, 1=End, 2=Total
+datatables.info={0} 件中 {1} から {2} まで表示
+datatables.infoEmpty=0 件中 0 から 0 まで表示
+datatables.infoFiltered=（全 {0} 件より抽出）
+datatables.infoPostFix=
+datatables.thousands=,
+datatables.lengthMenu={0} 件表示
+datatables.loadingRecords=Loading...
+datatables.processing=処理中...
+datatables.search=検索:
+datatables.zeroRecords=データはありません。
+datatables.paginate.first=先頭
+datatables.paginate.last=最終
+datatables.paginate.next=次
+datatables.paginate.previous=前
+datatables.aria.sortAscending=: activate to sort column ascending
+datatables.aria.sortDescending=: activate to sort column descending
+
+websocket.closed=Lost network connection, probably maintenance or a server error.  Page will automatically reload to get accurate lobby data.
+websocket.error=WebSocket Error
+
+profile.name=名前
+profile.elo=Elo
+profile.games=Games
+profile.drops=Drops
+profile.streak=Streak
+profile.wins=Wins
+profile.drops=Drops
+profile.steamprofile=Steam Profile
+profile.friend.add=Add Friend
+profile.friend.confirm=Are you sure you want to send a friend request to {0}?
+
+lobbies.table.started=Started
+lobbies.table.game=Game
+lobbies.table.type=ゲームの種類
+lobbies.table.avg_elo=Elo
+lobbies.table.name=ゲーム名
+lobbies.table.location=マップの種類
+lobbies.table.status=Status
+lobbies.table.join=参加
+
+lobbies.details.game=Game
+lobbies.details.mapsize=マップの大きさ
+lobbies.details.age=開始する時代
+lobbies.details.population=人口
+lobbies.details.resources=資源
+lobbies.details.victory=ゴール
+lobbies.details.ranked=レート
+lobbies.details.restore=復元
+lobbies.details.cheatsenabled=隠しコマンドの使用
+lobbies.details.ranked.yes=いいよ
+lobbies.details.ranked.no=いやだね
+lobbies.details.restore.yes=いいよ
+lobbies.details.restore.no=いやだね
+lobbies.details.cheats.yes=いいよ
+lobbies.details.cheats.no=いやだね
+
+leaderboard.table.rank=Rank
+leaderboard.table.steamid=Steam ID
+leaderboard.table.elo=Elo
+leaderboard.table.name=ゲーム名
+leaderboard.table.games=Games
+leaderboard.table.streak=Streak
+leaderboard.table.wins=Wins
+leaderboard.table.drops=Drops
+                  
+lobbies.game.aoe2hd=HD
+lobbies.game.aoe2hdforgotten=Forgotten
+
+contact.title=Contact
+contact.steamname=Steam Name
+contact.steamname.placeholder=Your Steam Name (Optional)
+contact.email=E-mail
+contact.email.placeholder=Your email (Optional)
+contact.message=Message
+contact.message.placeholder=Please enter your message here...
+contact.submit=Submit
+
+contact.complete.header=Thank you!
+contact.complete.message1=I may not be able to answer everyone who writes to me, but I do read each message and appreciate that you''ve taken the time to give your feedback.
+contact.complete.message2=If you expect a response, please make sure you left your email and/or steam id, feel free to submit another message with this if needed.
+
+aoe2.location.fullrandom=フル ランダム
+aoe2.location.randomlandmap=ランダム ランド
+aoe2.location.blindrandom=ブラインド ランダム
+aoe2.location.arabia=アラビア
+aoe2.location.archipelago=列島
+aoe2.location.arena=アリーナ
+aoe2.location.baltic=バルト海
+aoe2.location.blackforest=深い森
+aoe2.location.coastal=沿岸
+aoe2.location.continental=大陸
+aoe2.location.craterlake=カルデラ湖
+aoe2.location.fortress=要塞
+aoe2.location.ghostlake=凍結湖
+aoe2.location.goldrush=金鉱
+aoe2.location.highlands=高地
+aoe2.location.islands=島々
+aoe2.location.mediterranean=地中海
+aoe2.location.migration=移住
+aoe2.location.mongolia=モンゴリア
+aoe2.location.nomad=遊牧
+aoe2.location.oasis=オアシス
+aoe2.location.rivers=流域
+aoe2.location.saltmarsh=海辺の沼地
+aoe2.location.scandinavia=スカンディナビア
+aoe2.location.teamislands=チームごとの島
+aoe2.location.yucatan=ユカタン
+aoe2.location.acropolis=アクロポリス
+aoe2.location.budapest=ブダペスト
+aoe2.location.cenotes=セノーテ
+aoe2.location.cityoflakes=湖の街
+aoe2.location.goldenpit=金の多いくぼみ
+aoe2.location.hideout=隠れ家
+aoe2.location.hillfort=丘の上の要塞
+aoe2.location.lombardia=ロンバルディア
+aoe2.location.steppe=大草原
+aoe2.location.valley=盆地
+aoe2.location.megarandom=メガ ランダム
+aoe2.location.hamburger=ハンバーガー
+aoe2.location.fullrandom=フル ランダム
+aoe2.location.britain=イギリス
+aoe2.location.byzantium=ビザンティウム
+aoe2.location.centralamerica=中央アメリカ
+aoe2.location.france=フランス
+aoe2.location.iberia=イベリア
+aoe2.location.italy=イタリア
+aoe2.location.mideast=中東
+aoe2.location.norselands=ノルウェー
+aoe2.location.seaofjapan=日本海 (東海)
+aoe2.location.texas=テキサス
+aoe2.location.ctrrandom=CtR Random
+aoe2.location.ctrmonsoon=CtR Monsoon
+aoe2.location.ctrpyramiddescent=CtR Pyramid Descent
+aoe2.location.ctrspiral=CtR Spiral
+
+aoe2.mapstyle.standard=標準
+aoe2.mapstyle.realworld=リアル マップ
+aoe2.mapstyle.custom=カスタム
+
+aoe2.gametype.turborandommap=ターボ ランダム マップ
+aoe2.gametype.regicide=チェックメイト
+aoe2.gametype.deathmatch=デス マッチ
+aoe2.gametype.scenario=シナリオ
+aoe2.gametype.kingofthehill=キング オブ ザ ヒル
+aoe2.gametype.wonderrace=民族の象徴の建造
+aoe2.gametype.defendthewonder=民族の象徴の防衛
+aoe2.gametype.capturetherelic=聖なる箱の確保
+aoe2.gametype.randommap=ランダム マップ
+
+aoe2.age.standard=標準
+aoe2.age.dark=暗黒の時代
+aoe2.age.feudal=領主の時代
+aoe2.age.castle=城主の時代
+aoe2.age.imperial=帝王の時代
+aoe2.age.postimperial=帝王の時代以降
+
+aoe2.mapsize.tiny=極小 (2 プレイヤー)
+aoe2.mapsize.small=小 (3 プレイヤー)
+aoe2.mapsize.medium=普通 (4 プレイヤー)
+aoe2.mapsize.normal=大 (6 プレイヤー)
+aoe2.mapsize.large=広大 (8 プレイヤー)
+aoe2.mapsize.giant=特大
+aoe2.mapsize.ludikris=超特大
+
+aoe2.resources.standard=標準
+aoe2.resources.low=少ない
+aoe2.resources.medium=普通
+aoe2.resources.high=大
+
+aoe2.victory.standard=標準
+aoe2.victory.conquest=征服
+aoe2.victory.timelimit=制限時間
+aoe2.victory.score=得点
+aoe2.victory.lastmanstanding=サバイバル

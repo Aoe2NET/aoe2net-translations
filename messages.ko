@@ -1,0 +1,193 @@
+navbar.lobbies=Lobbies
+navbar.leaderboards=순위표
+navbar.leaderboards.aoe2hd.randommap=랜덤 맵
+navbar.leaderboards.aoe2hd.deathmatch=전멸전
+navbar.history=History
+navbar.history.mygamehistory=My Game History
+navbar.history.recentgames=Recent Games
+navbar.contact=Contact
+navbar.steamauth.unknown=Unknown
+navbar.steamauth.logout=Logout
+
+footer.copyright=Copyright 2014-2015 AOE2.NET
+footer.poweredbysteam=Powered by {0}
+#footer.translated=English translation by ___
+footer.message=This site is not affiliated with or endorsed by Microsoft Corporation. Age of Empires® II: HD is a trademark or registered trademark of Microsoft Corporation in the U.S. and/or other countries.
+
+# https://datatables.net/plug-ins/i18n/Korean
+datatables.emptyTable=데이터가 없습니다
+# 0=Start, 1=End, 2=Total
+datatables.info={0} - {1} / {2}
+datatables.infoEmpty=0 - 0 / 0
+datatables.infoFiltered=(총 {0} 개)
+datatables.infoPostFix=
+datatables.thousands=,
+datatables.lengthMenu=페이지당 줄수 {0}
+datatables.loadingRecords=읽는중...
+datatables.processing=처리중...
+datatables.search=검색:
+datatables.zeroRecords=검색 결과가 없습니다
+datatables.paginate.first=처음
+datatables.paginate.last=마지막
+datatables.paginate.next=다음
+datatables.paginate.previous=이전
+datatables.aria.sortAscending=: 오름차순 정렬
+datatables.aria.sortDescending=: 내림차순 정렬
+
+websocket.closed=Lost network connection, probably maintenance or a server error.  Page will automatically reload to get accurate lobby data.
+websocket.error=WebSocket Error
+
+profile.name=이름
+profile.elo=Elo
+profile.games=Games
+profile.drops=Drops
+profile.streak=Streak
+profile.wins=Wins
+profile.drops=Drops
+profile.steamprofile=Steam Profile
+profile.friend.add=Add Friend
+profile.friend.confirm=Are you sure you want to send a friend request to {0}?
+
+lobbies.table.started=Started
+lobbies.table.game=Game
+lobbies.table.type=게임 종류
+lobbies.table.avg_elo=Elo
+lobbies.table.name=게임 이름
+lobbies.table.location=지도 종류
+lobbies.table.status=Status
+lobbies.table.join=참가
+
+lobbies.details.game=Game
+lobbies.details.mapsize=지도 크기
+lobbies.details.age=시작할 시대
+lobbies.details.population=인구
+lobbies.details.resources=자원
+lobbies.details.victory=승리
+lobbies.details.ranked=랭크됨
+lobbies.details.restore=복원
+lobbies.details.cheatsenabled=채팅 사용 가능
+lobbies.details.ranked.yes=예
+lobbies.details.ranked.no=아니오
+lobbies.details.restore.yes=예
+lobbies.details.restore.no=아니오
+lobbies.details.cheats.yes=예
+lobbies.details.cheats.no=아니오
+
+leaderboard.table.rank=Rank
+leaderboard.table.steamid=Steam ID
+leaderboard.table.elo=Elo
+leaderboard.table.name=게임 이름
+leaderboard.table.games=Games
+leaderboard.table.streak=Streak
+leaderboard.table.wins=Wins
+leaderboard.table.drops=Drops
+                  
+lobbies.game.aoe2hd=HD
+lobbies.game.aoe2hdforgotten=Forgotten
+
+contact.title=Contact
+contact.steamname=Steam Name
+contact.steamname.placeholder=Your Steam Name (Optional)
+contact.email=E-mail
+contact.email.placeholder=Your email (Optional)
+contact.message=Message
+contact.message.placeholder=Please enter your message here...
+contact.submit=Submit
+
+contact.complete.header=Thank you!
+contact.complete.message1=I may not be able to answer everyone who writes to me, but I do read each message and appreciate that you''ve taken the time to give your feedback.
+contact.complete.message2=If you expect a response, please make sure you left your email and/or steam id, feel free to submit another message with this if needed.
+
+aoe2.location.fullrandom=무작위
+aoe2.location.randomlandmap=무작위(대륙)
+aoe2.location.blindrandom=무작위(블라인드)
+aoe2.location.arabia=아라비아
+aoe2.location.archipelago=군도
+aoe2.location.arena=전투장
+aoe2.location.baltic=발트해
+aoe2.location.blackforest=삼림 지대
+aoe2.location.coastal=해안 지대
+aoe2.location.continental=대륙
+aoe2.location.craterlake=호수 지대
+aoe2.location.fortress=요새
+aoe2.location.ghostlake=유령 호수
+aoe2.location.goldrush=금광 지대
+aoe2.location.highlands=고원 지대
+aoe2.location.islands=섬
+aoe2.location.mediterranean=지중해
+aoe2.location.migration=이주지
+aoe2.location.mongolia=몽고
+aoe2.location.nomad=유목 지대
+aoe2.location.oasis=오아시스
+aoe2.location.rivers=강
+aoe2.location.saltmarsh=습 지대
+aoe2.location.scandinavia=스칸디나비아
+aoe2.location.teamislands=섬(팀별로 배정)
+aoe2.location.yucatan=유카탄
+aoe2.location.acropolis=아크로폴리스
+aoe2.location.budapest=부다페스트
+aoe2.location.cenotes=석회암 지대
+aoe2.location.cityoflakes=호수지대
+aoe2.location.goldenpit=황금 구덩이
+aoe2.location.hideout=은신처
+aoe2.location.hillfort=언덕 위의 성채
+aoe2.location.lombardia=롬바르디아
+aoe2.location.steppe=초원 지대
+aoe2.location.valley=계곡
+aoe2.location.megarandom=무작위(메가랜덤)
+aoe2.location.hamburger=햄버거
+aoe2.location.fullrandom=무작위
+aoe2.location.britain=영국
+aoe2.location.byzantium=비잔티움
+aoe2.location.centralamerica=중앙 아메리카
+aoe2.location.france=프랑스
+aoe2.location.iberia=이베리아
+aoe2.location.italy=이탈리아
+aoe2.location.mideast=중동
+aoe2.location.norselands=북유럽
+aoe2.location.seaofjapan=동해
+aoe2.location.texas=텍사스
+aoe2.location.ctrrandom=랜덤
+aoe2.location.ctrmonsoon=몬순
+aoe2.location.ctrpyramiddescent=하강 피라미드
+aoe2.location.ctrspiral=나선 낙하”
+
+aoe2.mapstyle.standard=표준
+aoe2.mapstyle.realworld=실제 지도
+aoe2.mapstyle.custom=사용자 정의
+
+aoe2.gametype.turborandommap=랜덤 맵(터보)
+aoe2.gametype.regicide=국왕 시해
+aoe2.gametype.deathmatch=전멸전
+aoe2.gametype.scenario=시나리오
+aoe2.gametype.kingofthehill=유적 점령
+aoe2.gametype.wonderrace=불가사의 건설
+aoe2.gametype.defendthewonder=불가사의 방어
+aoe2.gametype.capturetherelic=유물 뺏기
+aoe2.gametype.randommap=랜덤 맵
+
+aoe2.age.standard=표준
+aoe2.age.dark=암흑 시대
+aoe2.age.feudal=봉건 시대
+aoe2.age.castle=성주 시대
+aoe2.age.imperial=왕정 시대
+aoe2.age.postimperial=후기 왕정 시대
+
+aoe2.mapsize.tiny=가장 작게 (2명)
+aoe2.mapsize.small=작게 (3명)
+aoe2.mapsize.medium=조금 작게 (4명)
+aoe2.mapsize.normal=조금 크게 (6명)
+aoe2.mapsize.large=크게 (8명)
+aoe2.mapsize.giant=가장 크게
+aoe2.mapsize.ludikris=어마어마하게
+
+aoe2.resources.standard=표준
+aoe2.resources.low=적게
+aoe2.resources.medium=보통
+aoe2.resources.high=많게
+
+aoe2.victory.standard=표준
+aoe2.victory.conquest=정복
+aoe2.victory.timelimit=시간 제한
+aoe2.victory.score=점수
+aoe2.victory.lastmanstanding=최후 생존

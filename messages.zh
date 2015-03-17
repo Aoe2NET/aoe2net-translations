@@ -1,0 +1,193 @@
+navbar.lobbies=Lobbies
+navbar.leaderboards=排行榜
+navbar.leaderboards.aoe2hd.randommap=随机地图
+navbar.leaderboards.aoe2hd.deathmatch=死亡竞赛
+navbar.history=History
+navbar.history.mygamehistory=My Game History
+navbar.history.recentgames=Recent Games
+navbar.contact=Contact
+navbar.steamauth.unknown=Unknown
+navbar.steamauth.logout=Logout
+
+footer.copyright=Copyright 2014-2015 AOE2.NET
+footer.poweredbysteam=Powered by {0}
+#footer.translated=English translation by ___
+footer.message=This site is not affiliated with or endorsed by Microsoft Corporation. Age of Empires® II: HD is a trademark or registered trademark of Microsoft Corporation in the U.S. and/or other countries.
+
+# https://datatables.net/plug-ins/i18n/Chinese
+datatables.emptyTable=表中数据为空
+# 0=Start, 1=End, 2=Total
+datatables.info=显示第 {0} 至 {1} 项结果，共 {2} 项
+datatables.infoEmpty=显示第 0 至 0 项结果，共 0 项
+datatables.infoFiltered=(由 {0} 项结果过滤)
+datatables.infoPostFix=
+datatables.thousands=,
+datatables.lengthMenu=显示 {0} 项结果
+datatables.loadingRecords=载入中...
+datatables.processing=处理中...
+datatables.search=搜索:
+datatables.zeroRecords=没有匹配结果
+datatables.paginate.first=首页
+datatables.paginate.last=末页
+datatables.paginate.next=下页
+datatables.paginate.previous=上页
+datatables.aria.sortAscending=: 以升序排列此列
+datatables.aria.sortDescending=: 以降序排列此列
+
+websocket.closed=Lost network connection, probably maintenance or a server error.  Page will automatically reload to get accurate lobby data.
+websocket.error=WebSocket Error
+
+profile.name=名字
+profile.elo=Elo
+profile.games=Games
+profile.drops=Drops
+profile.streak=Streak
+profile.wins=Wins
+profile.drops=Drops
+profile.steamprofile=Steam Profile
+profile.friend.add=Add Friend
+profile.friend.confirm=Are you sure you want to send a friend request to {0}?
+
+lobbies.table.started=Started
+lobbies.table.game=Game
+lobbies.table.type=游戏类型
+lobbies.table.avg_elo=Elo
+lobbies.table.name=游戏名称
+lobbies.table.location=地图类型
+lobbies.table.status=Status
+lobbies.table.join=加入
+
+lobbies.details.game=Game
+lobbies.details.mapsize=地图尺寸
+lobbies.details.age=开始年代
+lobbies.details.population=人口
+lobbies.details.resources=资源
+lobbies.details.victory=胜利
+lobbies.details.ranked=排名
+lobbies.details.restore=恢复
+lobbies.details.cheatsenabled=允许作弊
+lobbies.details.ranked.yes=好
+lobbies.details.ranked.no=不
+lobbies.details.restore.yes=好
+lobbies.details.restore.no=不
+lobbies.details.cheats.yes=好
+lobbies.details.cheats.no=不
+
+leaderboard.table.rank=Rank
+leaderboard.table.steamid=Steam ID
+leaderboard.table.elo=Elo
+leaderboard.table.name=游戏名称
+leaderboard.table.games=Games
+leaderboard.table.streak=Streak
+leaderboard.table.wins=Wins
+leaderboard.table.drops=Drops
+                  
+lobbies.game.aoe2hd=HD
+lobbies.game.aoe2hdforgotten=Forgotten
+
+contact.title=Contact
+contact.steamname=Steam Name
+contact.steamname.placeholder=Your Steam Name (Optional)
+contact.email=E-mail
+contact.email.placeholder=Your email (Optional)
+contact.message=Message
+contact.message.placeholder=Please enter your message here...
+contact.submit=Submit
+
+contact.complete.header=Thank you!
+contact.complete.message1=I may not be able to answer everyone who writes to me, but I do read each message and appreciate that you''ve taken the time to give your feedback.
+contact.complete.message2=If you expect a response, please make sure you left your email and/or steam id, feel free to submit another message with this if needed.
+
+aoe2.location.fullrandom=完全随机地图
+aoe2.location.randomlandmap=随机陆地地图
+aoe2.location.blindrandom=绝对随机地图
+aoe2.location.arabia=阿拉伯半岛
+aoe2.location.archipelago=群岛
+aoe2.location.arena=丛林竞技场
+aoe2.location.baltic=波罗的海
+aoe2.location.blackforest=黑森林
+aoe2.location.coastal=沿海
+aoe2.location.continental=大陆
+aoe2.location.craterlake=火山湖
+aoe2.location.fortress=堡垒
+aoe2.location.ghostlake=幽灵湖
+aoe2.location.goldrush=黄金时代
+aoe2.location.highlands=高地
+aoe2.location.islands=岛屿
+aoe2.location.mediterranean=地中海
+aoe2.location.migration=移民
+aoe2.location.mongolia=蒙古
+aoe2.location.nomad=游牧民族
+aoe2.location.oasis=绿洲
+aoe2.location.rivers=河流
+aoe2.location.saltmarsh=盐碱沼泽
+aoe2.location.scandinavia=斯堪的纳维亚
+aoe2.location.teamislands=岛屿分组
+aoe2.location.yucatan=热带雨林
+aoe2.location.acropolis=雅典卫城
+aoe2.location.budapest=布达佩斯
+aoe2.location.cenotes=岩坑池地
+aoe2.location.cityoflakes=百湖之城
+aoe2.location.goldenpit=金矿谷
+aoe2.location.hideout=藏身之处
+aoe2.location.hillfort=连营山寨
+aoe2.location.lombardia=伦巴第
+aoe2.location.steppe=干草原
+aoe2.location.valley=峡谷
+aoe2.location.megarandom=超级随机
+aoe2.location.hamburger=汉堡包
+aoe2.location.fullrandom=完全随机地图
+aoe2.location.britain=不列颠
+aoe2.location.byzantium=拜占庭
+aoe2.location.centralamerica=中美洲
+aoe2.location.france=法国
+aoe2.location.iberia=伊比利亚
+aoe2.location.italy=亚平宁半岛
+aoe2.location.mideast=中东
+aoe2.location.norselands=挪威大陆
+aoe2.location.seaofjapan=日本海 (东海)
+aoe2.location.texas=德克萨斯
+aoe2.location.ctrrandom=夺宝*随机地图
+aoe2.location.ctrmonsoon=夺宝*雨季沼泽
+aoe2.location.ctrpyramiddescent=夺宝*决战金字塔之巅
+aoe2.location.ctrspiral=夺宝*漩涡迷航
+
+aoe2.mapstyle.standard=标准
+aoe2.mapstyle.realworld=真实世界
+aoe2.mapstyle.custom=定制
+
+aoe2.gametype.turborandommap=加速随机地图
+aoe2.gametype.regicide=弑君模式
+aoe2.gametype.deathmatch=死亡竞赛
+aoe2.gametype.scenario=场景
+aoe2.gametype.kingofthehill=占山为王
+aoe2.gametype.wonderrace=奇迹竞赛
+aoe2.gametype.defendthewonder=保护奇迹
+aoe2.gametype.capturetherelic=争夺圣物
+aoe2.gametype.randommap=随机地图
+
+aoe2.age.standard=标准
+aoe2.age.dark=黑暗时代
+aoe2.age.feudal=封建时代
+aoe2.age.castle=城堡时代
+aoe2.age.imperial=帝王时代
+aoe2.age.postimperial=后帝王时代
+
+aoe2.mapsize.tiny=微型 (2 玩家)
+aoe2.mapsize.small=小型 (3 玩家)
+aoe2.mapsize.medium=中型 (4 玩家)
+aoe2.mapsize.normal=正常 (6 玩家)
+aoe2.mapsize.large=大型 (8个玩家)
+aoe2.mapsize.giant=巨型
+aoe2.mapsize.ludikris=超大
+
+aoe2.resources.standard=标准
+aoe2.resources.low=低
+aoe2.resources.medium=中
+aoe2.resources.high=高
+
+aoe2.victory.standard=标准
+aoe2.victory.conquest=征服
+aoe2.victory.timelimit=时限
+aoe2.victory.score=得分
+aoe2.victory.lastmanstanding=谁站到最后

@@ -1,0 +1,193 @@
+navbar.lobbies=Lobbies
+navbar.leaderboards=Placares
+navbar.leaderboards.aoe2hd.randommap=Mapa Aleatório
+navbar.leaderboards.aoe2hd.deathmatch=Duelo Mortal
+navbar.history=History
+navbar.history.mygamehistory=My Game History
+navbar.history.recentgames=Recent Games
+navbar.contact=Contact
+navbar.steamauth.unknown=Unknown
+navbar.steamauth.logout=Logout
+
+footer.copyright=Copyright 2014-2015 AOE2.NET
+footer.poweredbysteam=Powered by {0}
+#footer.translated=English translation by ___
+footer.message=This site is not affiliated with or endorsed by Microsoft Corporation. Age of Empires® II: HD is a trademark or registered trademark of Microsoft Corporation in the U.S. and/or other countries.
+
+# https://datatables.net/plug-ins/i18n/Portuguese
+datatables.emptyTable=No data available in table
+# 0=Start, 1=End, 2=Total
+datatables.info=Mostrando de {0} até {1} de {2} registos
+datatables.infoEmpty=Mostrando de 0 até 0 de 0 registos
+datatables.infoFiltered=(filtrado de {0} registos no total)
+datatables.infoPostFix=
+datatables.thousands=,
+datatables.lengthMenu=Mostrar {0} registos
+datatables.loadingRecords=Loading...
+datatables.processing=A processar...
+datatables.search=Procurar:
+datatables.zeroRecords=Não foram encontrados resultados
+datatables.paginate.first=Primeiro
+datatables.paginate.last=Último
+datatables.paginate.next=Seguinte
+datatables.paginate.previous=Anterior
+datatables.aria.sortAscending=: activate to sort column ascending
+datatables.aria.sortDescending=: activate to sort column descending
+
+websocket.closed=Lost network connection, probably maintenance or a server error.  Page will automatically reload to get accurate lobby data.
+websocket.error=WebSocket Error
+
+profile.name=Nome
+profile.elo=Elo
+profile.games=Games
+profile.drops=Drops
+profile.streak=Streak
+profile.wins=Wins
+profile.drops=Drops
+profile.steamprofile=Steam Profile
+profile.friend.add=Add Friend
+profile.friend.confirm=Are you sure you want to send a friend request to {0}?
+
+lobbies.table.started=Started
+lobbies.table.game=Game
+lobbies.table.type=Tipo de Jogo
+lobbies.table.avg_elo=Elo
+lobbies.table.name=Nome do Jogo
+lobbies.table.location=Tipo de Mapa
+lobbies.table.status=Status
+lobbies.table.join=Entrar
+
+lobbies.details.game=Game
+lobbies.details.mapsize=Tamanho do Mapa
+lobbies.details.age=Era Inicial
+lobbies.details.population=População
+lobbies.details.resources=Recursos
+lobbies.details.victory=Vitória
+lobbies.details.ranked=Classificado
+lobbies.details.restore=Restaurar
+lobbies.details.cheatsenabled=Ativar Trapaças
+lobbies.details.ranked.yes=Sim
+lobbies.details.ranked.no=Não
+lobbies.details.restore.yes=Sim
+lobbies.details.restore.no=Não
+lobbies.details.cheats.yes=Sim
+lobbies.details.cheats.no=Não
+
+leaderboard.table.rank=Rank
+leaderboard.table.steamid=Steam ID
+leaderboard.table.elo=Elo
+leaderboard.table.name=Nome do Jogo
+leaderboard.table.games=Games
+leaderboard.table.streak=Streak
+leaderboard.table.wins=Wins
+leaderboard.table.drops=Drops
+                  
+lobbies.game.aoe2hd=HD
+lobbies.game.aoe2hdforgotten=Forgotten
+
+contact.title=Contact
+contact.steamname=Steam Name
+contact.steamname.placeholder=Your Steam Name (Optional)
+contact.email=E-mail
+contact.email.placeholder=Your email (Optional)
+contact.message=Message
+contact.message.placeholder=Please enter your message here...
+contact.submit=Submit
+
+contact.complete.header=Thank you!
+contact.complete.message1=I may not be able to answer everyone who writes to me, but I do read each message and appreciate that you''ve taken the time to give your feedback.
+contact.complete.message2=If you expect a response, please make sure you left your email and/or steam id, feel free to submit another message with this if needed.
+
+aoe2.location.fullrandom=Aleatório Completo
+aoe2.location.randomlandmap=Mapa de Terra Aleatório
+aoe2.location.blindrandom=Aleatório Cego
+aoe2.location.arabia=Arábia
+aoe2.location.archipelago=Arquipélago
+aoe2.location.arena=Arena
+aoe2.location.baltic=Báltico
+aoe2.location.blackforest=Floresta Negra
+aoe2.location.coastal=Litorâneo
+aoe2.location.continental=Continental
+aoe2.location.craterlake=Lago da Cratera
+aoe2.location.fortress=Fortaleza
+aoe2.location.ghostlake=Lago Fantasma
+aoe2.location.goldrush=Febre do Ouro
+aoe2.location.highlands=Terras Altas
+aoe2.location.islands=Ilhas
+aoe2.location.mediterranean=Mediterrâneo
+aoe2.location.migration=Migração
+aoe2.location.mongolia=Mongólia
+aoe2.location.nomad=Nômade
+aoe2.location.oasis=Oásis
+aoe2.location.rivers=Rios
+aoe2.location.saltmarsh=Pântano Salgado
+aoe2.location.scandinavia=Escandinávia
+aoe2.location.teamislands=Ilhas de Equipe
+aoe2.location.yucatan=Iucatã
+aoe2.location.acropolis=Acrópole
+aoe2.location.budapest=Budapeste
+aoe2.location.cenotes=Cenotes
+aoe2.location.cityoflakes=Cidade dos Lagos
+aoe2.location.goldenpit=Buraco de Ouro
+aoe2.location.hideout=Esconderijo
+aoe2.location.hillfort=Forte de Colina
+aoe2.location.lombardia=Lombardia
+aoe2.location.steppe=Estepe
+aoe2.location.valley=Vale
+aoe2.location.megarandom=MegaRandom
+aoe2.location.hamburger=Hamburger
+aoe2.location.fullrandom=Aleatório Completo
+aoe2.location.britain=Bretanha
+aoe2.location.byzantium=Bizâncio
+aoe2.location.centralamerica=América Central
+aoe2.location.france=França
+aoe2.location.iberia=Ibéria
+aoe2.location.italy=Itália
+aoe2.location.mideast=Oriente Médio
+aoe2.location.norselands=Terras Nórdicas
+aoe2.location.seaofjapan=Mar do Japão (Mar do Leste)
+aoe2.location.texas=Texas
+aoe2.location.ctrrandom=CtR Aleatório
+aoe2.location.ctrmonsoon=CtR Monção
+aoe2.location.ctrpyramiddescent=CtR Descida de Pirâmide
+aoe2.location.ctrspiral=CtR Espiral
+
+aoe2.mapstyle.standard=Padrão
+aoe2.mapstyle.realworld=Mundo Real
+aoe2.mapstyle.custom=Personalizado
+
+aoe2.gametype.turborandommap=Mapa Aleatório Turbo
+aoe2.gametype.regicide=Regicídio
+aoe2.gametype.deathmatch=Duelo Mortal
+aoe2.gametype.scenario=Cenário
+aoe2.gametype.kingofthehill=Rei da Colina
+aoe2.gametype.wonderrace=Corrida pela Maravilha
+aoe2.gametype.defendthewonder=Defenda a Maravilha
+aoe2.gametype.capturetherelic=Capture a Relíquia
+aoe2.gametype.randommap=Mapa Aleatório
+
+aoe2.age.standard=Padrão
+aoe2.age.dark=Era das Trevas
+aoe2.age.feudal=Era Feudal
+aoe2.age.castle=Era dos Castelos
+aoe2.age.imperial=Era Imperial
+aoe2.age.postimperial=Era Pós-Imperial
+
+aoe2.mapsize.tiny=Minúsculo (2 Jogadores)
+aoe2.mapsize.small=Pequeno (3 Jogadores)
+aoe2.mapsize.medium=Médio (4 Jogadores)
+aoe2.mapsize.normal=Normal (6 Jogadores)
+aoe2.mapsize.large=Grande (8 Jogadores)
+aoe2.mapsize.giant=Gigante
+aoe2.mapsize.ludikris=Ridículo
+
+aoe2.resources.standard=Padrão
+aoe2.resources.low=Baixo
+aoe2.resources.medium=Médio
+aoe2.resources.high=Alta
+
+aoe2.victory.standard=Padrão
+aoe2.victory.conquest=Conquista
+aoe2.victory.timelimit=Limite de Tempo
+aoe2.victory.score=Pontuação
+aoe2.victory.lastmanstanding=O último de pé

@@ -1,0 +1,192 @@
+navbar.lobbies=Lobbies
+navbar.leaderboards=Leaderboards
+navbar.leaderboards.aoe2hd.randommap=Random Map
+navbar.leaderboards.aoe2hd.deathmatch=Deathmatch
+navbar.history=History
+navbar.history.mygamehistory=My Game History
+navbar.history.recentgames=Recent Games
+navbar.contact=Contact
+navbar.steamauth.unknown=Unknown
+navbar.steamauth.logout=Logout
+
+footer.copyright=Copyright 2014-2015 AOE2.NET
+footer.poweredbysteam=Powered by {0}
+#footer.translated=English translation by ___
+footer.message=This site is not affiliated with or endorsed by Microsoft Corporation. Age of Empires® II: HD is a trademark or registered trademark of Microsoft Corporation in the U.S. and/or other countries.
+
+datatables.emptyTable=No data available in table
+# 0=Start, 1=End, 2=Total
+datatables.info=Showing {0} to {1} of {2} entries
+datatables.infoEmpty=Showing 0 to 0 of 0 entries
+datatables.infoFiltered=(filtered from {0} total entries)
+datatables.infoPostFix=
+datatables.thousands=,
+datatables.lengthMenu=Show {0} entries
+datatables.loadingRecords=Loading...
+datatables.processing=Processing...
+datatables.search=Search:
+datatables.zeroRecords=No matching records found
+datatables.paginate.first=First
+datatables.paginate.last=Last
+datatables.paginate.next=Next
+datatables.paginate.previous=Previous
+datatables.aria.sortAscending=: activate to sort column ascending
+datatables.aria.sortDescending=: activate to sort column descending
+
+websocket.closed=Lost network connection, probably maintenance or a server error.  Page will automatically reload to get accurate lobby data.
+websocket.error=WebSocket Error
+
+profile.name=Name
+profile.elo=Elo
+profile.games=Games
+profile.drops=Drops
+profile.streak=Streak
+profile.wins=Wins
+profile.drops=Drops
+profile.steamprofile=Steam Profile
+profile.friend.add=Add Friend
+profile.friend.confirm=Are you sure you want to send a friend request to {0}?
+
+lobbies.table.started=Started
+lobbies.table.game=Game
+lobbies.table.type=Type
+lobbies.table.avg_elo=Elo
+lobbies.table.name=Name
+lobbies.table.location=Location
+lobbies.table.status=Status
+lobbies.table.join=JoinME!
+
+lobbies.details.game=Game
+lobbies.details.mapsize=Map Size
+lobbies.details.age=Age
+lobbies.details.population=Population
+lobbies.details.resources=Resources
+lobbies.details.victory=Victory
+lobbies.details.ranked=Ranked
+lobbies.details.restore=Restore
+lobbies.details.cheatsenabled=Cheats Enabled
+lobbies.details.ranked.yes=Yes
+lobbies.details.ranked.no=No
+lobbies.details.restore.yes=Yes
+lobbies.details.restore.no=No
+lobbies.details.cheats.yes=Yes
+lobbies.details.cheats.no=No
+
+leaderboard.table.rank=Rank
+leaderboard.table.steamid=Steam ID
+leaderboard.table.elo=Elo
+leaderboard.table.name=Name
+leaderboard.table.games=Games
+leaderboard.table.streak=Streak
+leaderboard.table.wins=Wins
+leaderboard.table.drops=Drops
+
+lobbies.game.aoe2hd=HD
+lobbies.game.aoe2hdforgotten=Forgotten
+
+contact.title=Contact
+contact.steamname=Steam Name
+contact.steamname.placeholder=Your Steam Name (Optional)
+contact.email=E-mail
+contact.email.placeholder=Your email (Optional)
+contact.message=Message
+contact.message.placeholder=Please enter your message here...
+contact.submit=Submit
+
+contact.complete.header=Thank you!
+contact.complete.message1=I may not be able to answer everyone who writes to me, but I do read each message and appreciate that you''ve taken the time to give your feedback.
+contact.complete.message2=If you expect a response, please make sure you left your email and/or steam id, feel free to submit another message with this if needed.
+
+aoe2.location.fullrandom=Full Random
+aoe2.location.randomlandmap=Random Land Map
+aoe2.location.blindrandom=Blind Random
+aoe2.location.arabia=Arabia
+aoe2.location.archipelago=Archipelago
+aoe2.location.arena=Arena
+aoe2.location.baltic=Baltic
+aoe2.location.blackforest=Black Forest
+aoe2.location.coastal=Coastal
+aoe2.location.continental=Continental
+aoe2.location.craterlake=Crater Lake
+aoe2.location.fortress=Fortress
+aoe2.location.ghostlake=Ghost Lake
+aoe2.location.goldrush=Gold Rush
+aoe2.location.highlands=Highland
+aoe2.location.islands=Islands
+aoe2.location.mediterranean=Mediterranean
+aoe2.location.migration=Migration
+aoe2.location.mongolia=Mongolia
+aoe2.location.nomad=Nomad
+aoe2.location.oasis=Oasis
+aoe2.location.rivers=Rivers
+aoe2.location.saltmarsh=Salt Marsh
+aoe2.location.scandinavia=Scandinavia
+aoe2.location.teamislands=Team Islands
+aoe2.location.yucatan=Yucatan
+aoe2.location.acropolis=Acropolis
+aoe2.location.budapest=Budapest
+aoe2.location.cenotes=Cenotes
+aoe2.location.cityoflakes=City of Lakes
+aoe2.location.goldenpit=Golden Pit
+aoe2.location.hideout=Hideout
+aoe2.location.hillfort=Hill Fort
+aoe2.location.lombardia=Lombardia
+aoe2.location.steppe=Steppe
+aoe2.location.valley=Valley
+aoe2.location.megarandom=MegaRandom
+aoe2.location.hamburger=Hamburger
+aoe2.location.fullrandom=Full Random
+aoe2.location.britain=Britain
+aoe2.location.byzantium=Byzantium
+aoe2.location.centralamerica=Central America
+aoe2.location.france=France
+aoe2.location.iberia=Iberia
+aoe2.location.italy=Italy
+aoe2.location.mideast=Mideast
+aoe2.location.norselands=Norse Lands
+aoe2.location.seaofjapan=Sea of Japan (East Sea)
+aoe2.location.texas=Texas
+aoe2.location.ctrrandom=CtR Random
+aoe2.location.ctrmonsoon=CtR Monsoon
+aoe2.location.ctrpyramiddescent=CtR Pyramid Descent
+aoe2.location.ctrspiral=CtR Spiral
+
+aoe2.mapstyle.standard=Standard
+aoe2.mapstyle.realworld=Real World
+aoe2.mapstyle.custom=Custom
+
+aoe2.gametype.turborandommap=Turbo Random Map
+aoe2.gametype.regicide=Regicide
+aoe2.gametype.deathmatch=Death Match
+aoe2.gametype.scenario=Scenario
+aoe2.gametype.kingofthehill=King of the Hill
+aoe2.gametype.wonderrace=Wonder Race
+aoe2.gametype.defendthewonder=Defend the Wonder
+aoe2.gametype.capturetherelic=Capture the Relic
+aoe2.gametype.randommap=Random Map
+
+aoe2.age.standard=Standard
+aoe2.age.dark=Dark Age
+aoe2.age.feudal=Feudal Age
+aoe2.age.castle=Castle Age
+aoe2.age.imperial=Imperial Age
+aoe2.age.postimperial=Post-Imperial Age
+
+aoe2.mapsize.tiny=Tiny (2 player)
+aoe2.mapsize.small=Small (3 player)
+aoe2.mapsize.medium=Medium (4 player)
+aoe2.mapsize.normal=Normal (6 player)
+aoe2.mapsize.large=Large (8 player)
+aoe2.mapsize.giant=Giant
+aoe2.mapsize.ludikris=LudiKRIS
+
+aoe2.resources.standard=Standard
+aoe2.resources.low=Low
+aoe2.resources.medium=Medium
+aoe2.resources.high=High
+
+aoe2.victory.standard=Standard
+aoe2.victory.conquest=Conquest
+aoe2.victory.timelimit=Time Limit
+aoe2.victory.score=Score
+aoe2.victory.lastmanstanding=Last Man Standing
