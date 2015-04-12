@@ -6,8 +6,21 @@ navbar.history=History
 navbar.history.mygamehistory=My Game History
 navbar.history.recentgames=Recent Games
 navbar.contact=Contact
+navbar.language=Language
 navbar.steamauth.unknown=Unknown
 navbar.steamauth.logout=Logout
+
+language.dutch=Dutch
+language.english=English
+language.french=French
+language.german=German
+language.italian=Italian
+language.japanese=Japanese
+language.korean=Korean
+language.portuguese=Portuguese
+language.russian=Russian
+language.simplifiedchinese=Simplified Chinese
+language.spanish=Spanish
 
 footer.copyright=Copyright 2014-2015 AOE2.NET
 footer.poweredbysteam=Powered by {0}
@@ -34,10 +47,28 @@ datatables.paginate.previous=Anterior
 datatables.aria.sortAscending=: Activar para ordenar la columna de manera ascendente
 datatables.aria.sortDescending=: Activar para ordenar la columna de manera descendente
 
+timeago.prefixAgo=hace
+timeago.prefixFromNow=dentro de
+timeago.suffixAgo=
+timeago.suffixFromNow=
+timeago.seconds=menos de un minuto
+timeago.minute=un minuto
+timeago.minutes=unos {0} minutos
+timeago.hour=una hora
+timeago.hours={0} horas
+timeago.day=un día
+timeago.days={0} días
+timeago.month=un mes
+timeago.months={0} meses
+timeago.year=un año
+timeago.years={0} años
+
 websocket.closed=Lost network connection, probably maintenance or a server error.  Page will automatically reload to get accurate lobby data.
 websocket.error=WebSocket Error
 
 profile.name=Nombre
+profile.randommap=RM
+profile.deathmatch=DM
 profile.elo=Elo
 profile.games=Games
 profile.drops=Drops
@@ -47,6 +78,9 @@ profile.drops=Drops
 profile.steamprofile=Steam Profile
 profile.friend.add=Add Friend
 profile.friend.confirm=Are you sure you want to send a friend request to {0}?
+profile.recent=2 Weeks
+profile.all=All
+profile.close=Close
 
 lobbies.table.started=Started
 lobbies.table.game=Game
@@ -58,6 +92,8 @@ lobbies.table.status=Status
 lobbies.table.join=Unirse
 
 lobbies.details.game=Game
+lobbies.details.opened=Opened
+lobbies.details.started=Started
 lobbies.details.mapsize=Tamaño del mapa
 lobbies.details.age=Edad inicial
 lobbies.details.population=Población

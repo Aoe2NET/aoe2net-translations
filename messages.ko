@@ -6,8 +6,21 @@ navbar.history=History
 navbar.history.mygamehistory=My Game History
 navbar.history.recentgames=Recent Games
 navbar.contact=Contact
+navbar.language=Language
 navbar.steamauth.unknown=Unknown
 navbar.steamauth.logout=Logout
+
+language.dutch=Dutch
+language.english=English
+language.french=French
+language.german=German
+language.italian=Italian
+language.japanese=Japanese
+language.korean=Korean
+language.portuguese=Portuguese
+language.russian=Russian
+language.simplifiedchinese=Simplified Chinese
+language.spanish=Spanish
 
 footer.copyright=Copyright 2014-2015 AOE2.NET
 footer.poweredbysteam=Powered by {0}
@@ -34,10 +47,26 @@ datatables.paginate.previous=이전
 datatables.aria.sortAscending=: 오름차순 정렬
 datatables.aria.sortDescending=: 내림차순 정렬
 
+timeago.suffixAgo=전
+timeago.suffixFromNow=후
+timeago.seconds=1분 이내
+timeago.minute=1분
+timeago.minutes={0}분
+timeago.hour=1시간
+timeago.hours={0}시간
+timeago.day=하루
+timeago.days={0}일
+timeago.month=한 달
+timeago.months={0}달
+timeago.year=1년
+timeago.years={0}년
+  
 websocket.closed=Lost network connection, probably maintenance or a server error.  Page will automatically reload to get accurate lobby data.
 websocket.error=WebSocket Error
 
 profile.name=이름
+profile.randommap=RM
+profile.deathmatch=DM
 profile.elo=Elo
 profile.games=Games
 profile.drops=Drops
@@ -47,6 +76,9 @@ profile.drops=Drops
 profile.steamprofile=Steam Profile
 profile.friend.add=Add Friend
 profile.friend.confirm=Are you sure you want to send a friend request to {0}?
+profile.recent=2 Weeks
+profile.all=All
+profile.close=Close
 
 lobbies.table.started=Started
 lobbies.table.game=Game
@@ -58,6 +90,8 @@ lobbies.table.status=Status
 lobbies.table.join=참가
 
 lobbies.details.game=Game
+lobbies.details.created=Created
+lobbies.details.started=Started
 lobbies.details.mapsize=지도 크기
 lobbies.details.age=시작할 시대
 lobbies.details.population=인구

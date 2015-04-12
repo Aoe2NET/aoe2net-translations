@@ -6,8 +6,21 @@ navbar.history=History
 navbar.history.mygamehistory=My Game History
 navbar.history.recentgames=Recent Games
 navbar.contact=Contact
+navbar.language=Language
 navbar.steamauth.unknown=Unknown
 navbar.steamauth.logout=Logout
+
+language.dutch=Dutch
+language.english=English
+language.french=French
+language.german=German
+language.italian=Italian
+language.japanese=Japanese
+language.korean=Korean
+language.portuguese=Portuguese
+language.russian=Russian
+language.simplifiedchinese=Simplified Chinese
+language.spanish=Spanish
 
 footer.copyright=Copyright 2014-2015 AOE2.NET
 footer.poweredbysteam=Powered by {0}
@@ -38,6 +51,8 @@ websocket.closed=Lost network connection, probably maintenance or a server error
 websocket.error=WebSocket Error
 
 profile.name=Имя
+profile.randommap=RM
+profile.deathmatch=DM
 profile.elo=Elo
 profile.games=Games
 profile.drops=Drops
@@ -47,6 +62,9 @@ profile.drops=Drops
 profile.steamprofile=Steam Profile
 profile.friend.add=Add Friend
 profile.friend.confirm=Are you sure you want to send a friend request to {0}?
+profile.recent=2 Weeks
+profile.all=All
+profile.close=Close
 
 lobbies.table.started=Started
 lobbies.table.game=Game
@@ -58,6 +76,8 @@ lobbies.table.status=Status
 lobbies.table.join=Присоединиться
 
 lobbies.details.game=Game
+lobbies.details.created=Created
+lobbies.details.started=Started
 lobbies.details.mapsize=Размер карты
 lobbies.details.age=Нач. эпоха
 lobbies.details.population=Население

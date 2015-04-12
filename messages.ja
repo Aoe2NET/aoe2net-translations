@@ -6,8 +6,21 @@ navbar.history=History
 navbar.history.mygamehistory=My Game History
 navbar.history.recentgames=Recent Games
 navbar.contact=Contact
+navbar.language=Language
 navbar.steamauth.unknown=Unknown
 navbar.steamauth.logout=Logout
+
+language.dutch=Dutch
+language.english=English
+language.french=French
+language.german=German
+language.italian=Italian
+language.japanese=Japanese
+language.korean=Korean
+language.portuguese=Portuguese
+language.russian=Russian
+language.simplifiedchinese=Simplified Chinese
+language.spanish=Spanish
 
 footer.copyright=Copyright 2014-2015 AOE2.NET
 footer.poweredbysteam=Powered by {0}
@@ -34,10 +47,29 @@ datatables.paginate.previous=前
 datatables.aria.sortAscending=: activate to sort column ascending
 datatables.aria.sortDescending=: activate to sort column descending
 
+timeago.prefixAgo=
+timeago.prefixFromNow=今から
+timeago.suffixAgo=前
+timeago.suffixFromNow=後
+timeago.seconds=1 分未満
+timeago.minute=約 1 分
+timeago.minutes={0} 分
+timeago.hour=約 1 時間
+timeago.hours=約 {0} 時間
+timeago.day=約 1 日
+timeago.days=約 {0} 日
+timeago.month=約 1 月
+timeago.months=約 {0} 月
+timeago.year=約 1 年
+timeago.years=約 %d 年
+timeago.wordSeparator=
+
 websocket.closed=Lost network connection, probably maintenance or a server error.  Page will automatically reload to get accurate lobby data.
 websocket.error=WebSocket Error
 
 profile.name=名前
+profile.randommap=RM
+profile.deathmatch=DM
 profile.elo=Elo
 profile.games=Games
 profile.drops=Drops
@@ -47,6 +79,9 @@ profile.drops=Drops
 profile.steamprofile=Steam Profile
 profile.friend.add=Add Friend
 profile.friend.confirm=Are you sure you want to send a friend request to {0}?
+profile.recent=2 Weeks
+profile.all=All
+profile.close=Close
 
 lobbies.table.started=Started
 lobbies.table.game=Game
@@ -58,6 +93,8 @@ lobbies.table.status=Status
 lobbies.table.join=参加
 
 lobbies.details.game=Game
+lobbies.details.created=Created
+lobbies.details.started=Started
 lobbies.details.mapsize=マップの大きさ
 lobbies.details.age=開始する時代
 lobbies.details.population=人口

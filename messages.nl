@@ -6,8 +6,21 @@ navbar.history=History
 navbar.history.mygamehistory=My Game History
 navbar.history.recentgames=Recent Games
 navbar.contact=Contact
+navbar.language=Language
 navbar.steamauth.unknown=Unknown
 navbar.steamauth.logout=Logout
+
+language.dutch=Dutch
+language.english=English
+language.french=French
+language.german=German
+language.italian=Italian
+language.japanese=Japanese
+language.korean=Korean
+language.portuguese=Portuguese
+language.russian=Russian
+language.simplifiedchinese=Simplified Chinese
+language.spanish=Spanish
 
 footer.copyright=Copyright 2014-2015 AOE2.NET
 footer.poweredbysteam=Powered by {0}
@@ -34,10 +47,28 @@ datatables.paginate.previous=Vorige
 datatables.aria.sortAscending=: activate to sort column ascending
 datatables.aria.sortDescending=: activate to sort column descending
 
+#timeago.prefixAgo=
+timeago.prefixFromNow=
+timeago.suffixAgo=geleden
+timeago.suffixFromNow=van nu
+timeago.seconds=minder dan een minuut
+timeago.minute=ongeveer een minuut
+timeago.minutes={0} minuten
+timeago.hour=ongeveer een uur
+timeago.hours=ongeveer {0} uur
+timeago.day=een dag
+timeago.days={0} dagen
+timeago.month=ongeveer een maand
+timeago.months={0} maanden
+timeago.year=ongeveer een jaar
+timeago.years={0} jaar
+  
 websocket.closed=Lost network connection, probably maintenance or a server error.  Page will automatically reload to get accurate lobby data.
 websocket.error=WebSocket Error
 
 profile.name=Naam
+profile.randommap=RM
+profile.deathmatch=DM
 profile.elo=Elo
 profile.games=Games
 profile.drops=Drops
@@ -47,6 +78,9 @@ profile.drops=Drops
 profile.steamprofile=Steam Profile
 profile.friend.add=Add Friend
 profile.friend.confirm=Are you sure you want to send a friend request to {0}?
+profile.recent=2 Weeks
+profile.all=All
+profile.close=Close
 
 lobbies.table.started=Started
 lobbies.table.game=Game
@@ -58,6 +92,8 @@ lobbies.table.status=Status
 lobbies.table.join=Aansluiten
 
 lobbies.details.game=Game
+lobbies.details.created=Created
+lobbies.details.started=Started
 lobbies.details.mapsize=Kaartgrootte
 lobbies.details.age=Starttijdperk
 lobbies.details.population=Bevolking
