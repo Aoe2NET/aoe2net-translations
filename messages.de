@@ -10,22 +10,24 @@ navbar.language=Language
 navbar.steamauth.unknown=Unknown
 navbar.steamauth.logout=Logout
 
-language.dutch=Dutch
-language.english=English
-language.french=French
-language.german=German
-language.italian=Italian
-language.japanese=Japanese
-language.korean=Korean
-language.portuguese=Portuguese
-language.russian=Russian
-language.simplifiedchinese=Simplified Chinese
-language.spanish=Spanish
+language.dutch=Nederlands (Niederländisch)
+language.english=English (Englisch)
+language.french=Français (Französisch)
+language.german=Deutsch
+language.greek=Ελληνικά (Griechisch)
+language.italian=Italiano (Italienisch)
+language.japanese=日本語 (Japanisch)
+language.korean=한국어 (Koreanisch)
+language.portuguese=Português (Portugiesisch)
+language.russian=Русский (Russisch)
+language.simplifiedchinese=简体中文 (Vereinfachtes Chinesisch)
+language.spanish=Español (Spanisch)
+language.turkish=Türkçe (Türkisch)
 
-footer.copyright=Copyright 2014-2015 AOE2.NET
+footer.copyright=Copyright 2014-2016 AOE2.NET
 footer.poweredbysteam=Powered by {0}
 #footer.translated=English translation by ___
-footer.message=This site is not affiliated with or endorsed by Microsoft Corporation. Age of Empires® II: HD is a trademark or registered trademark of Microsoft Corporation in the U.S. and/or other countries.
+footer.message=This site is not affiliated with or endorsed by Microsoft Corporation. Age of Empires® II: HD is a trademark or registered trademark of Microsoft Corporation in the U.S. and other countries.
 
 # https://datatables.net/plug-ins/i18n/German
 datatables.emptyTable=Keine Daten in der Tabelle vorhanden
@@ -112,6 +114,7 @@ lobbies.details.cheats.no=Nein
 leaderboard.table.rank=Rank
 leaderboard.table.steamid=Steam ID
 leaderboard.table.elo=Elo
+leaderboard.table.country=Country
 leaderboard.table.name=Spielname
 leaderboard.table.games=Games
 leaderboard.table.streak=Streak
