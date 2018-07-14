@@ -81,7 +81,7 @@ profile.drops=連敗
 profile.steamprofile=Steamプロフィール
 profile.friend.add=フレンドに追加
 profile.friend.confirm={0} をフレンドに追加してよろしいですか?
-profile.recent=2 習慣
+profile.recent=2 週間
 profile.all=すべて
 profile.close=閉じる
 
@@ -105,12 +105,12 @@ lobbies.details.victory=ゴール
 lobbies.details.ranked=レート
 lobbies.details.restore=復元
 lobbies.details.cheatsenabled=隠しコマンドの使用
-lobbies.details.ranked.yes=いいよ
-lobbies.details.ranked.no=いやだね
-lobbies.details.restore.yes=いいよ
-lobbies.details.restore.no=いやだね
-lobbies.details.cheats.yes=いいよ
-lobbies.details.cheats.no=いやだね
+lobbies.details.ranked.yes=ランク有
+lobbies.details.ranked.no=ランク無
+lobbies.details.restore.yes=復元有
+lobbies.details.restore.no=復元無
+lobbies.details.cheats.yes=隠しコマンド有
+lobbies.details.cheats.no=隠しコマンド無
 
 leaderboard.table.rank=ランク
 leaderboard.table.steamid=Steam ID
