@@ -99,6 +99,7 @@ lobbies.details.game=Game
 lobbies.details.vs=VS
 lobbies.details.created=Created
 lobbies.details.started=Started
+lobbies.details.matchid=Match ID
 lobbies.details.winner=胜利者
 lobbies.details.mapsize=地图尺寸
 lobbies.details.age=时代
